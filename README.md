@@ -10,7 +10,7 @@ API: [CRUD-ACTOR-JDBC-EXERCISE](https://github.com/ravel01106/CRUD-ACTOR-JDBC-EX
 - [ReactJS](https://es.react.dev/)
 - [Material UI](https://mui.com/material-ui/)
 
-## Instalation
+## Installation
 To start the application we must first have all the necessary packages using the following command:
 ````
 npm i
